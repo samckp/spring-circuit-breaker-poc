@@ -1,5 +1,8 @@
 This POC include below Components.
-Service Discovery (Eureka),
-Circuit Breaker (Hystrix), 
-Intelligent Routing (Zuul) 
+
+Circuit Breaker (Hystrix),
+
+Todo:
+Intelligent Routing (Zuul),
 Client Side Load Balancing (Ribbon)
+Service Discovery (Eureka)
